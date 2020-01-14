@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+while square_array(array).length <=array.length do
+   array= square_array(array) 
+  return array
+end
 end
