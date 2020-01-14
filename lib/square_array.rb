@@ -4,5 +4,5 @@ while i <= array.length do
    array[i]=i**2
 i+=1
 end
-
+return array
 end
